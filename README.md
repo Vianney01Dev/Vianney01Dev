@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Laravel framework
 - 💞️ I’m looking to collaborate on web projet
-- 📫 How to reach me www.linkedin.com/in/vianney-sonon-693536209
+- 📫 How to reach me www.linkedin.com/in/vianneysonon
 
 <!---
 Vianney01Dev/Vianney01Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
